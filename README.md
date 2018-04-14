@@ -1,6 +1,7 @@
-# Build Web Components with RxJS and Coffeescript 2
-- Comes with a Store function to creat unidirectional observable flows
 - Webpack 3
 - CSSNext
+- Coffeescript 2
+- RxJS
+- Comes with a Store function to creat unidirectional observable flows with RxJS
 
-This project is great for tinkering with any of the included technologies, but would need work to be a full app build system. I've found that RxJS is fully capable of being the state glue for an entire app, and this helps folks get their feet wet. 
+I've found that RxJS is fully capable of being the state glue and coffeescript 2 is even more sugar on an already sugary language. Figured I'd mash them up and see if it was too sweet. What do you think? 
